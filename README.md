@@ -1,2 +1,2 @@
-# ExplorintGit
+# ExploringGit
 Exploring GitHub and Git Commands
